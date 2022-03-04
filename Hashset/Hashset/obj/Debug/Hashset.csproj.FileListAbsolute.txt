@@ -1,0 +1,7 @@
+C:\Users\palakdwi\source\repos\Hashset\Hashset\bin\Debug\Hashset.exe.config
+C:\Users\palakdwi\source\repos\Hashset\Hashset\bin\Debug\Hashset.exe
+C:\Users\palakdwi\source\repos\Hashset\Hashset\bin\Debug\Hashset.pdb
+C:\Users\palakdwi\source\repos\Hashset\Hashset\obj\Debug\Hashset.csproj.AssemblyReference.cache
+C:\Users\palakdwi\source\repos\Hashset\Hashset\obj\Debug\Hashset.csproj.CoreCompileInputs.cache
+C:\Users\palakdwi\source\repos\Hashset\Hashset\obj\Debug\Hashset.exe
+C:\Users\palakdwi\source\repos\Hashset\Hashset\obj\Debug\Hashset.pdb
